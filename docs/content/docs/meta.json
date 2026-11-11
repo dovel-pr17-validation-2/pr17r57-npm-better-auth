@@ -1,0 +1,15 @@
+{
+  "pages": [
+    "index",
+    "framework-guides",
+    "basic-usage",
+    "features",
+    "supported-plugins",
+    "debugging",
+    "integrations",
+    "experimental",
+    "api",
+    "upgrading",
+    "security"
+  ]
+}
